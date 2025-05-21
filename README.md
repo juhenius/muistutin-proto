@@ -1,5 +1,7 @@
 # Muistutin PWA
 
+**Live Demo:** [https://juhenius.github.io/muistutin-proto/](https://juhenius.github.io/muistutin-proto/)
+
 A modern, privacy-first family reminder app for busy mornings. Muistutin is a local-only, installable Progressive Web App (PWA) built with React 19, TypeScript, and Tailwind CSS. All data is stored in your browser—no cloud, no backend, no accounts, and no tracking.
 
 ## Features
